@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-asd
-=======
-rewrite the fileiconflict checkj
->>>>>>> branch_test
+this is Master.
+
