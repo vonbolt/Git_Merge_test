@@ -4,3 +4,5 @@ branch1+2 + branch 1.2
 
 a new branch dev1
 
+dev1 complete
+
