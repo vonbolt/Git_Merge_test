@@ -1,3 +1,4 @@
 master
 
-branch1+2
+branch1+2 + branch 1.2
+
